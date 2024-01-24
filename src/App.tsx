@@ -37,7 +37,7 @@ function App() {
       <div className="data">
         {showMessage && <div className="message">{message}</div>}
       </div>
-      {count >= 13 && (
+      {count != 13 && (
         <div>
           {count > 6 && (
             <button
