@@ -16,7 +16,7 @@ app.get("/api/data", (req,res)=>{
         message8: "Won't be the same text though",
         message9: "Even if you go forward",
         message10: "There is no end",
-        message11: "Just kidding I got bored"
+        message11: "Lets play a game"
     })
 })
 
